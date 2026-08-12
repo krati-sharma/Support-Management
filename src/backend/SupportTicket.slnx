@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SupportTicket.Api/SupportTicket.Api.csproj" />
+  <Project Path="SupportTicket.Application/SupportTicket.Application.csproj" />
+  <Project Path="SupportTicket.Domain/SupportTicket.Domain.csproj" />
+  <Project Path="SupportTicket.Infrastructure/SupportTicket.Infrastructure.csproj" />
+</Solution>
